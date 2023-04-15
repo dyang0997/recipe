@@ -1,7 +1,5 @@
 Let's begin!
 
-TEST CHANGE
-
 INGREDIENTS
 2 x 400g beef fillets
 Olive oil, for frying
